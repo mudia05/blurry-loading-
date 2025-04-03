@@ -16,7 +16,7 @@ body{
 }
 
 .bg{
-  background: url('https://images.unsplash.com/photo-1731641904795-2873e1da5ac1?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8');
+  background: url('https://images.unsplash.com/photo-1743359738386-6691f717e1ac?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDh8eEh4WVRNSExnT2N8fGVufDB8fHx8fA%3D%3D');
   background-size: cover;  /* Ensures the image covers the container */
 background-position: center;  /* Centers the image */
 position: absolute;
